@@ -1,0 +1,3 @@
+# PaddleOCR-Wrap 依赖
+paddleocr>=2.9.0
+paddlepaddle>=3.0.0
